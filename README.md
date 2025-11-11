@@ -1,10 +1,3 @@
-<h1 align="center">
-  Hi, 👋 I'm Ahmed Ibrahim
-</h1>
-<h2 align="center">
-  💻 Frontend Developer | ⚛️ React.js
-</h2>
-
 #### `🌐 Connect with Me`
 <p align="left">
   <a href="mailto:eng.ahmedeltelbani@gmail.com">
